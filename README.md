@@ -3,9 +3,33 @@
 💡 14+ Years building scalable enterprise applications
 
 - 👀 I’m interested in ...
+  I specialize in designing and building scalable microservices architectures using Java & Spring Boot.  
+Currently working as a Technical Lead, driving system design, performance optimization, and team delivery.  
+Passionate about clean code, distributed systems, and production-grade solutions.
+
+🛠️ Tech Stack
+
+Backend: Java, Spring Boot, Spring Cloud  
+Frontend: React, Angular  
+Database: MySQL, PostgreSQL, SQL Server  
+DevOps: Docker, Kubernetes, CI/CD  
+Tools: Git, JFrog, SonarQube  
+Architecture: Microservices, Event-driven, REST APIs
+
 - 🌱 I’m currently learning ...
+
+🔥 What I Work On
+
+- Designing microservices for high-scale enterprise systems  
+- Performance optimization & large dataset handling  
+- API design & integration  
+- Code reviews & engineering best practices  
+- Mentoring developers & leading teams
+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me, just Connect with me on...
+LinkedIn: https://www.linkedin.com/in/pankaj-bhasker/  
+Email: pankaj.bhasker709@gmail.com
 
 <!---
 pankajbhasker/pankajbhasker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
